@@ -345,7 +345,7 @@ module.exports.handler = async (event, context) => {
         display: none;
       }
 
-      lable, button, input {
+      label, button, input {
         display:block;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 18px;
